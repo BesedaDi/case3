@@ -11,7 +11,7 @@ s = 0
 # сумма процентов месяц interest
 # капитал capital
 year = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-i=1
+i = 1
 inv = b
 interest = b*c/100
 capital = b*c/100+b
